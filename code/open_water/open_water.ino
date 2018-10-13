@@ -17,6 +17,13 @@ void loop() {
 
 byte currButton = digitalRead(buttonPin);
 
+/*
+ * if the button has been press, begin
+ * light purification. After X seconds, 
+ * play a tone on the speaker to alert the
+ * user that the water has been processed
+ */
+
 
 
 }
